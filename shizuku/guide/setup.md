@@ -1,4 +1,4 @@
-# User manual
+# Danzz manual
 
 [[toc]]
 
